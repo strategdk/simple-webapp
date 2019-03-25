@@ -1,1 +1,1 @@
-All requirements.
+Flask==0.12.0
